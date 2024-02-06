@@ -1,1 +1,14 @@
 # ENSF381Assigment1
+
+
+Image sources:
+Logo: https://www.bing.com/images/search?view=detailV2&ccid=MQ%2f4%2fOjP&id=7C60A86643EA4F0C0774BCBB04A517BB248E3110&thid=OIP.MQ_4_OjP5t4IZ-ZNb8mUAgHaEK&mediaurl=https%3a%2f%2fgraphicsfamily.com%2fwp-content%2fuploads%2f2020%2f10%2fShopping-Logo-on-3d-glass-wall-scaled.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.310ff8fce8cfe6de0867e64d6fc99402%3frik%3dEDGOJLsXpQS7vA%26pid%3dImgRaw%26r%3d0&exph=1440&expw=2560&q=shop+logo+download+for+free&simid=608040749826063393&FORM=IRPRST&ck=711D63C285DF4EF5B6F22FBA14229208&selectedIndex=0&itb=0
+
+PS5 controller: https://www.bing.com/images/search?view=detailV2&ccid=lkhfM1RS&id=3C5B05CB1F6EAF0411285DE681C33B8AE4A07B42&thid=OIP.lkhfM1RSQ4y8it_lcSs54QHaEK&mediaurl=https%3a%2f%2fd1lss44hh2trtw.cloudfront.net%2fassets%2farticle%2f2020%2f12%2f08%2fps5-controller_feature.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.96485f335452438cbc8adfe5712b39e1%3frik%3dQnug5Io7w4HmXQ%26pid%3dImgRaw%26r%3d0&exph=1080&expw=1920&q=ps5+controller&simid=608030265836657320&FORM=IRPRST&ck=EF843E824966698C525C2E4E70C99AD4&selectedIndex=3&itb=0
+
+
+Water bottle: https://www.bing.com/images/search?view=detailV2&ccid=XCMfYC1X&id=E279BC746617168613A0DF22A6D280B8A09AFB3D&thid=OIP.XCMfYC1XrcbUS37RXrjr8QHaHa&mediaurl=https%3a%2f%2fcdn.images.fecom-media.com%2fFE00008240%2fimages%2fHE1478394_153085-P.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.5c231f602d57adc6d44b7ed15eb8ebf1%3frik%3dPfuaoLiA0qYi3w%26pid%3dImgRaw%26r%3d0&exph=2000&expw=2000&q=water+bottle&simid=607994488753246475&FORM=IRPRST&ck=427C64265826E6D6AF43B14B29F3AEA4&selectedIndex=4&itb=0
+
+Hotwheels: https://www.bing.com/images/search?view=detailV2&ccid=LZBw5Xrw&id=888F984EDBDD027EE4DAD253F4394ED3B352365B&thid=OIP.LZBw5XrwZfaie1pXs1TMRAHaEK&mediaurl=https%3a%2f%2fst.automobilemag.com%2fuploads%2fsites%2f11%2f2018%2f10%2fHot-Wheels-06.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.2d9070e57af065f6a27b5a57b354cc44%3frik%3dWzZSs9NOOfRT0g%26pid%3dImgRaw%26r%3d0&exph=1152&expw=2048&q=hotwheels&simid=607986371291331304&FORM=IRPRST&ck=2B06C81F24CBA1B4907DA51404FB03B4&selectedIndex=3&itb=0
+
+Camera: https://www.bing.com/images/search?view=detailV2&ccid=FnR1Gs2l&id=0F6F5B6C57455C5F59E5FB5625C8D76D31497D12&thid=OIP.FnR1Gs2ltepKsFybEVu-7QHaHa&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.1674751acda5b5ea4ab05c9b115bbeed%3frik%3dEn1JMW3XyCVW%252bw%26riu%3dhttp%253a%252f%252fwww.bhphotovideo.com%252fimages%252fimages2500x2500%252folympus_oltg2r_tg_2_digital_camera_red_910175.jpg%26ehk%3djldlzs04iGdUkqQ2q58Z2Ac7t1yfyzR3r1dNw1pTdSU%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=2500&expw=2500&q=camera&simid=608051856587822949&FORM=IRPRST&ck=19BFD73747051FDC7F854D26864CC1FE&selectedIndex=15&itb=0
